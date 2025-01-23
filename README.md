@@ -1,5 +1,5 @@
 ### About Me
-I am 3rd Year Student taking up Bachelor of Science in Information Technology, in Camarines Sur Polytechnic Colleges, Nabua Camarines Sur. I've been Started Programming since 2016 and until Now I am still Coding about my Personal Projects and more.
+I am 4th Year Student taking up Bachelor of Science in Information Technology, in Camarines Sur Polytechnic Colleges, Nabua Camarines Sur. I've been Started Programming since 2016 and until Now I am still Coding about my Personal Projects and more.
 
 <div align="center">
 <a href="https://markglenmiguel.blogspot.com">
